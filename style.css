@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: black!important;
+    color: #1B242E!important;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1039,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.titre-agence {
+    color: white!important;
 }
